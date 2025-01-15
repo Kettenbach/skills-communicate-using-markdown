@@ -1,6 +1,10 @@
 # Create a useful Readme
 ###### Simple and to the point
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 ``` C++
 void myFunction()
